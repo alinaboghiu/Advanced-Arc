@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{fullpage}
+
+\begin{document}
+
+%-------------------------------------------------------------------------------
+%    TITLE PAGE
+%-------------------------------------------------------------------------------
+
+\begin{titlepage}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\center
+\textsc{\LARGE Imperial College London}  \\[1.5cm]
+\textsc{\Large Department of Computing}  \\[0.5cm]
+\textsc{\large Course 332: Advanced Computer Architecture} \\[0.5cm]
+
+\HRule \\[0.6cm]
+{\huge \bfseries LOST: \\The LOgic Semantics Tutor} \\[0.3cm]
+\HRule \\[1.5cm]
+
+\begin{minipage}{0.4\textwidth}
+
+% author
+\begin{flushleft} \large \emph{Author:} \\
+Alina  \textsc{Boghiu}
+Adam  \textsc{Fiksen}
+John  \textsc{Walker}
+\end{flushleft}
+
+% supervisors
+\end{minipage}~
+\begin{minipage}{0.4\textwidth}
+
+\begin{flushright} \large \emph{Lecturer:} \\
+Paul H J \textsc{Kelly}
+\end{flushright}
+
+\end{minipage}\\[4cm]
+
+{\large \today}\\[3cm]
+\vfill
+\end{titlepage}
+
+%-------------------------------------------------------------------------------
+
+\end{document}
