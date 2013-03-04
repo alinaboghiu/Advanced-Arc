@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.3.12)  27 FEB 2013 15:03
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.3.12)  27 FEB 2013 15:25
 entering extended mode
  %&-line parsing enabled.
 **bare_conf.tex
@@ -96,30 +96,30 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtmpitemindent=\dimen116
 \c@IEEEbiography=\count90
 \@IEEEtranrubishbin=\box26
-)
-No file bare_conf.aux.
+) (./bare_conf.aux)
 \openout1 = `bare_conf.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 351.
-LaTeX Font Info:    ... okay on input line 351.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 351.
-LaTeX Font Info:    ... okay on input line 351.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 351.
-LaTeX Font Info:    ... okay on input line 351.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 351.
-LaTeX Font Info:    ... okay on input line 351.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 351.
-LaTeX Font Info:    ... okay on input line 351.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 351.
-LaTeX Font Info:    ... okay on input line 351.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 444.
+(Font)              <7> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 444.
+(Font)              <5> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 590.
+(Font)              <8> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 590.
+(Font)              <6> on input line 68.
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -135,24 +135,20 @@ Before submitting the final camera ready copy, remember to:
 
 
 
-] (./bare_conf.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] (./bare_conf.aux) ) 
 Here is how much of TeX's memory you used:
- 913 strings out of 493848
- 15934 string characters out of 1152823
+ 915 strings out of 493848
+ 15962 string characters out of 1152823
  64587 words of memory out of 3000000
  4252 multiletter control sequences out of 15000+50000
  38728 words of font info for 72 fonts, out of 3000000 for 9000
  717 hyphenation exceptions out of 8191
- 26i,8n,19p,190b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texli
-ve/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/t
-imes/utmbi8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></u
-sr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_conf.pdf (1 page, 47766 bytes).
+ 26i,8n,19p,215b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</us
+r/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texliv
+e/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/t
+imes/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
+Output written on bare_conf.pdf (1 page, 46631 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
