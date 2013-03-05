@@ -1,8 +1,8 @@
-CXXFLAGS = -O3 -Wall -Wno-deprecated -I../vtk-5.10
+CXXFLAGS = -O3 -Wall -Wno-deprecated -I/usr/include/vtk-5.6
 
 OBJS = ACA2-2013.o Mesh.o Smooth.o SVD2x2.o
 
-LIBS = -L..//libs/vtk-5.10 -lvtkIO -lvtkFiltering -lvtkCommon -lvtkzlib -lvtkexpat -lvtksys -ldl -lpthread
+LIBS = -L/usr/lib/vtk-5.6 -lvtkIO -lvtkFiltering -lvtkCommon
 
 TARGET = ACA2-2013
 
