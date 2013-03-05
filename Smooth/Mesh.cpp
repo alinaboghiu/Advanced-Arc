@@ -61,9 +61,10 @@ Mesh::Mesh(const char *filename){
   // Get the 3 vertices comprising each element.
   for(size_t i=0;i<NElements;i++){
     vtkCell *cell = ug->GetCell(i);
-    for(int j=0;j<3;j++){
-      ENList.push_back(cell->GetPointId(j));
-    }
+		ENList.push_back(cell->GetPointId(0));																//loop unrolled HERE
+		ENList.push_back(cell->GetPointId(1));
+		ENList.push_back(cell->GetPointId(2));
+		ENList.push_back(cell->GetPointId(3));
   }
   assert(ENList.size() == 3*NElements);
 
